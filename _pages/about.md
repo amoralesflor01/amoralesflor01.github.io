@@ -10,20 +10,20 @@ redirect_from:
 
 I am currently a computer science graduate student in the Master of Science program UC San Diego. My interest is in computer security and online privacy which is the area of research that I am interested in. I am set to begin my PhD in Fall 2024 under the guidance of Dr. Imani Munyaka.
 
-## Education
+## Education 🏫
 
 - **Master of Science in Computer Science**  
   *University of California, San Diego*  
   Expected June 2024 | Current GPA: 3.6/4.0
 
-## Professional Experience
+## Professional Experience 👨‍🏫
 
 - **Student Researcher & Teaching Assistant**  
   *University of California, San Diego*  
   Summer 2023 - Present  
   Roles include teaching assistant for CSE 291: Security, Privacy, UX and CSE 194: Race, Gender, and Computing,
 
-## You can Download My PGP Key Here:
+## You can Download My PGP Key Here 🗝️:
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -78,10 +78,10 @@ tMcN6QKo6IiAKjOFTYthkdWvknm1wdzk
 =700y
 -----END PGP PUBLIC KEY BLOCK-----
 
-## Fingerprint
+## Fingerprint 🥷
 
 62E8 2240 27CC F8E5 3CD4  28E2 388B E025 C327 C63B
 
-## Buh Bye
+## Buh Bye 👋
 
 Feel free to connect on LinkedIn or send me an email and thank you for visiting my page 😸

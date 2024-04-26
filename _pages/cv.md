@@ -13,7 +13,7 @@ redirect_from:
 San Diego, California | amoralesflores@ucsd.edu
 
 ### Summary
-PhD student in computer science in the Computer Science and Engineering program at University of California San Diego' Jacobs School School of Engineering with an interest in computer security and privacy. Currently a graduate student researcher in the UJIMA Security & Privacy Group.
+PhD student in computer science in the Computer Science and Engineering program at University of California San Diego's Jacobs School School of Engineering with an interest in computer security and privacy. Currently a graduate student researcher in the UJIMA Security & Privacy Group.
 
 Education
 ======
