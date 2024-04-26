@@ -18,18 +18,23 @@ I am currently a computer science graduate student in the Master of Science prog
 
 ## Professional Experience 👨‍🏫
 
-- **Student Researcher & Teaching Assistant**  
+- ** Graduate Student Researcher & Teaching Assistant**  
   *University of California, San Diego*  
   Summer 2023 - Present  
-  Roles include teaching assistant for CSE 291: Security, Privacy, UX and CSE 194: Race, Gender, and Computing,
+  Roles include teaching assistant for CSE 291: Security, Privacy, UX and CSE 194: Race, Gender, and Computing. As well as conducting grad-level research for the UJIMA Security & Research Group.
 
 ## You can Download My PGP Key Here 🗝️:
 
- <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/62E8224027CCF8E53CD428E2388BE025C327C63B">Click me</a> 
+You can find my public key on the keys.openpgp server or by clicking the link below 👇
+ * <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/62E8224027CCF8E53CD428E2388BE025C327C63B">Click here to Download my PGP Key</a> 
 
 ## Fingerprint 🥷
 
 62E8 2240 27CC F8E5 3CD4  28E2 388B E025 C327 C63B
+
+## Fun Fact about me 🎒
+
+Ever since I can recall I have always liked backpacks and if you ever see me it is very likely that I will have a backpack on regardless of the situation.
 
 ## Buh Bye 👋
 
