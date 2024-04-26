@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "UCSD"
+title: "Coursework"
 permalink: /ucsd_coursework/
 author_profile: true
 ---
