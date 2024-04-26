@@ -81,3 +81,7 @@ tMcN6QKo6IiAKjOFTYthkdWvknm1wdzk
 ## Fingerprint
 
 62E8 2240 27CC F8E5 3CD4  28E2 388B E025 C327 C63B
+
+## Buh Bye
+
+Feel free to connect on LinkedIn or send me an email and thank you for visiting my page 😸
