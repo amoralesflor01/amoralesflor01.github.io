@@ -1,10 +1,10 @@
 ---
-title: "Fall 2023 - CSE 194"
+title: "Fall 2023"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2023-fall-teaching-1
 venue: "University of California San Diego, Department of Computer Science and Engineering"
-date: 2023-12-15
+date: 2023-10-01
 location: "San Diego, USA"
 ---
 
