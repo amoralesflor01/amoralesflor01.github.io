@@ -1,5 +1,5 @@
 ---
-title: "Fall 2023"
+title: "Fall 2023 - CSE 194"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
