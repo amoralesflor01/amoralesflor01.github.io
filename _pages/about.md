@@ -14,7 +14,7 @@ I am currently a computer science graduate student in the Master of Science prog
 
 - **Master of Science in Computer Science**  
   *University of California, San Diego*  
-  Expected June 2024 | Current GPA: 3.6/4.0
+  June 2024 | Current GPA: 3.6/4.0
 
 ## Professional Experience 👨‍🏫
 
