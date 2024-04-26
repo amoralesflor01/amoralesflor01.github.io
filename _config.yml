@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_picture.png"
-  name             : "Alexis Morales Flores"
-  pronouns         : # example: "she/her"  
+  name             : "Alexis Morales Flores (Alex)"
+  pronouns         : example: "he/his"  
   bio              : "PhD Student in Computer Science @ University of California San Diego"
   location         : "Los Angeles / San Diego, California"
   employer         : "UC San Diego"
