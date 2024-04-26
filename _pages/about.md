@@ -28,7 +28,7 @@ I am currently a computer science graduate student in the Master of Science prog
 You can find my public key on the keys.openpgp server or by clicking the link below 👇
  * <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/62E8224027CCF8E53CD428E2388BE025C327C63B">Click here to Download my PGP Key</a> 
 
-## Fingerprint 🥷
+## PGP Fingerprint 🥷
 
 62E8 2240 27CC F8E5 3CD4  28E2 388B E025 C327 C63B
 
