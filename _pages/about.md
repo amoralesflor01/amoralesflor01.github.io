@@ -18,7 +18,7 @@ I am currently a computer science graduate student in the Master of Science prog
 
 ## Professional Experience 👨‍🏫
 
-- ** Graduate Student Researcher & Teaching Assistant**  
+- **Graduate Student Researcher & Teaching Assistant**  
   *University of California, San Diego*  
   Summer 2023 - Present  
   Roles include teaching assistant for CSE 291: Security, Privacy, UX and CSE 194: Race, Gender, and Computing. As well as conducting grad-level research for the UJIMA Security & Research Group.
