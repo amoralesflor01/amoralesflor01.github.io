@@ -52,12 +52,20 @@ Skills
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-Teaching Assistant
+<!-- Teaching Assistant
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Founder and former president of Huskies Computer Club in East Los Angeles College
+* NASA Community College Aerospace Scholars 
+
+Awards and Scholarships
+======
+* Hispanic Scholarship Fund
+* Edison STEM scholarship
+* OSHER NextGen Scholarship
+* ELAC Foundation CCCSE Scholarship
