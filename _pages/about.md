@@ -25,7 +25,7 @@ I am currently a computer science graduate student in the Master of Science prog
 
 ## You can Download My PGP Key Here 🗝️:
 
-You can find my public key on the keys.openpgp server or by clicking the link below 👇
+You can find my public key on the keys.openpgp.org server or by clicking the link below 👇
  * <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/62E8224027CCF8E53CD428E2388BE025C327C63B">Click here to Download my PGP Key</a> 
 
 ## PGP Fingerprint 🥷
