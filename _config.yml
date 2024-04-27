@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alexis' Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Alexis Morales Flores"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_picture.png"
-  name             : "Alexis Morales Flores (Alex)"
-  pronouns         : "he/his"  
+  name             : "Alexis Morales Flores"
+  pronouns         : "he/him/his"  
   bio              : "PhD Student in Computer Science @ University of California San Diego"
   location         : "Los Angeles / San Diego, California"
   employer         : "UC San Diego"
