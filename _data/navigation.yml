@@ -3,14 +3,16 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "UCSD"
-    url: /ucsd_coursework/
+  # UNCOMMENT "UCSD" SECTION TO RESTORE PREVIOUS SITE
+  # - title: "UCSD"
+  #   url: /ucsd_coursework/
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # UNCOMMENT "TEACHING" SECTION TO RESTORE PREVIOUS SITE
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -21,8 +23,9 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Resume"
-    url: /files/My_Resume.pdf
+  # UNCOMMENT "RESUME" SECTION TO RESTORE PREVIOUS SITE
+  # - title: "Resume"
+  #   url: /files/My_Resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
