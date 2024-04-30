@@ -59,13 +59,13 @@ Work experience
   Summer 2023 - Present  
   <!-- Roles include teaching assistant for CSE 291: Security, Privacy, UX and CSE 194: Race, Gender, and Computing. As well as conducting grad-level research for the UJIMA Security & Research Group under the guidance of Dr. Munyaka. -->
 
-  As a Teaching Assistant, my responsibilities included:
+  ### As a Teaching Assistant, my responsibilities included:
 
-- **Conducting weekly discussion sections** where students could deepen their understanding of course material through additional examples and exercises.
-- **Assisting in the design and grading of homework assignments and exams** to ensure fair and rigorous assessment of student learning.
-- **Holding regular office hours** to provide individualized support and clarification on complex topics to students.
-- **Facilitating exam logistics** such as proctoring exams to ensure academic integrity during examinations.
-- **Grading coursework** Reviewing assignments submitted by student and grading their work.
+- ***Conducting weekly discussion sections*** where students could deepen their understanding of course material through additional examples and exercises.
+- ***Assisting in the design and grading of homework assignments and exams*** to ensure fair and rigorous assessment of student learning.
+- ***Holding regular office hours*** to provide individualized support and clarification on complex topics to students.
+- ***Facilitating exam logistics*** such as proctoring exams to ensure academic integrity during examinations.
+- ***Grading coursework*** Reviewing assignments submitted by student and grading their work.
 
 * Graduate Student Researcher (Summer 2023)
 Conduct grad-level research for the UJIMA Security & Research Group under the guidance of Dr. Munyaka.
