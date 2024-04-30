@@ -57,13 +57,27 @@ Work experience
 **Graduate Student Researcher & Teaching Assistant**  
 * University of California, San Diego*  
   Summer 2023 - Present  
-  Roles include teaching assistant for CSE 291: Security, Privacy, UX and CSE 194: Race, Gender, and Computing. As well as conducting grad-level research for the UJIMA Security & Research Group.
+  <!-- Roles include teaching assistant for CSE 291: Security, Privacy, UX and CSE 194: Race, Gender, and Computing. As well as conducting grad-level research for the UJIMA Security & Research Group under the guidance of Dr. Munyaka. -->
+
+  As a Teaching Assistant, my responsibilities included:
+
+- **Conducting weekly discussion sections** where students could deepen their understanding of course material through additional examples and exercises.
+- **Assisting in the design and grading of homework assignments and exams** to ensure fair and rigorous assessment of student learning.
+- **Holding regular office hours** to provide individualized support and clarification on complex topics to students.
+- **Facilitating exam logistics** such as proctoring exams to ensure academic integrity during examinations.
+- **Grading coursework** Reviewing assignments submitted by student and grading their work.
+
+* Graduate Student Researcher (Summer 2023)
+Conduct grad-level research for the UJIMA Security & Research Group under the guidance of Dr. Munyaka.
   
 * CSE 194. Race, Gender, and Computing - Teaching Assistant (Fall 2023)
 This course explores the challenges of diversity, equity, and inclusion (DEI) in computing and technology through an introduction to and analysis of various social constructs and their impact on not only computing-related organizations, but also the technologies developed and the people affected by them. This course also introduces students to cultural competence in the context of computing.
 
 * CSE 291: Security, Privacy, UX - Teaching Assistant (Winter 2024)
 The effectiveness of security tools, systems, or processes is often determined by how users understand, implement, and respond to them. Therefore, it is crucial that researchers and developers of security and privacy solutions understand how to create tools with users in mind. In this course, we will explore the human factors of security and privacy solutions, and learn how to apply user-centered design principles to develop and evaluate those solutions. Students will be introduced to various security topics and the concepts necessary to conduct user studies. Course topics include accessibility, authentication, privacy policies, security warnings, developer tools, security education, and training. All students will work on a research project throughout the course with the goal of producing a paper suitable for publication.
+
+* Graduate Student Researcher (Spring 2024)
+Conduct grad-level research for the UJIMA Security & Research Group under the guidance of Dr. Munyaka.
 
 <!-- -------------------------here is where all the new stuff will be placed------------------- -->
 
