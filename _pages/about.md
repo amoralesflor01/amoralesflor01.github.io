@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Hello everyone, I am Alexis (Alex) 😎
 
-I am a 2nd year PhD student in computer sciene at UC San Diego. My interest is in computer security and online privacy which is the area of research that I am interested in. My research is conducted under the guidance of Dr. Imani Munyaka.
+I am a 1st year PhD student in computer science at UC San Diego. My research interests are in computer security and online privacy. My principal investigator is Dr. Imani Munyaka.
 
 <!-- -----------------UNCOMMENT ALL OF THE FOLLOWING TO RESTORE PREVIOUS SITE----------------- -->
 

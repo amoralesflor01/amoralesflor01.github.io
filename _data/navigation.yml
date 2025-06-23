@@ -24,8 +24,8 @@ main:
     url: /cv/
     
   # UNCOMMENT "RESUME" SECTION TO RESTORE PREVIOUS SITE
-  # - title: "Resume"
-  #   url: /files/My_Resume.pdf
+  - title: "Resume"
+    url: /files/My_Resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/

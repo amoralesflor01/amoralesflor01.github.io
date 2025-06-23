@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Alexis Morales Flores
+## Alex Morales Flores
 San Diego, California | amoralesflores@ucsd.edu
 
 ### Summary
@@ -28,7 +28,7 @@ Education
 
 - **PhD in Computer Science**  
   *University of California, San Diego*  
-  June 2026 (Expected) | Current GPA: 3.6/4.0
+  June 2027 (Expected) | Current GPA: 3.6/4.0
 
 - **Master of Science in Computer Science**  
   *University of California, San Diego*  
@@ -37,6 +37,26 @@ Education
 - **Bachelor of Science in Criminal Justice**  
   *California State University, Los Angeles*  
   December 2018 | Current GPA: 3.8/4.0
+
+Publications
+======
+
+### First-Author Publications
+
+1. **A License to Prey: Investigating the Impact of Digital Loan App Regulations on Permission Requests and Privacy Policies in the Kenyan Market**  
+   _Alexis Morales-Flores_, Michael He, William Wu, Imani N. S. Munyaka  
+   [IEEE](https://doi.org/10.1109/ISTAS61960.2024.10732051) • [PDF](files/A_License_to_Prey_Investigating_the_Impact_of_Digital_Loan_App_Regulations_on_Permission_Requests_and_Privacy_Policies_in_the_Kenyan_Market.pdf)
+
+### Co-Authored Publications
+
+1. **"Parent seeking Roblox Safety Help": Comparing Parental Roblox Concerns to Roblox Offerings**  
+   Andrew Smithwick, Chuong Nguyen, Emily Gorial, Natasha Tran, _Alexis Morales-Flores_, Imani N. S. Munyaka  
+   [IEEE](https://doi.org/10.1109/ISTAS61960.2024.10732489) • [PDF](files/Parent_seeking_Roblox_Safety_Help_Comparing_Parental_Roblox_Concerns_to_Roblox_Offerings.pdf)
+
+1. **AUTALIC: A Dataset for Anti-AUTistic Ableist Language In Context**  
+   Naba Rizvi, Harper Strickland, Daniel Gitelman, Tristan Cooper, _Alexis Morales-Flores_, Michael Golden, Aekta Kallepalli, Akshat Alurkar, Haaset Owens, Saleha Ahmedi, Isha Khirwadkar, Imani Munyaka, Nedjma Ousidhoum  
+   [arXiv](https://doi.org/10.48550/arXiv.2410.16520) • [PDF](files/2410.16520v3.pdf)
+
 
 Work experience
 ======
@@ -67,17 +87,14 @@ Work experience
 - ***Facilitating exam logistics*** such as proctoring exams to ensure academic integrity during examinations.
 - ***Grading coursework*** Reviewing assignments submitted by student and grading their work.
 
-* Graduate Student Researcher (Summer 2023)
-Conduct grad-level research for the UJIMA Security & Research Group under the guidance of Dr. Munyaka.
-  
-* CSE 194. Race, Gender, and Computing - Teaching Assistant (Fall 2023)
-This course explores the challenges of diversity, equity, and inclusion (DEI) in computing and technology through an introduction to and analysis of various social constructs and their impact on not only computing-related organizations, but also the technologies developed and the people affected by them. This course also introduces students to cultural competence in the context of computing.
+* CSE 127. Introduction to Computer Security - Teaching Assistant (Winter 2025)
+opics include basic cryptography, security/threat analysis, access control, auditing, security models, distributed systems security, and theory behind common attack and defense techniques. The class will go over formal models as well as the bits and bytes of security exploits.
 
 * CSE 291: Security, Privacy, UX - Teaching Assistant (Winter 2024)
 The effectiveness of security tools, systems, or processes is often determined by how users understand, implement, and respond to them. Therefore, it is crucial that researchers and developers of security and privacy solutions understand how to create tools with users in mind. In this course, we will explore the human factors of security and privacy solutions, and learn how to apply user-centered design principles to develop and evaluate those solutions. Students will be introduced to various security topics and the concepts necessary to conduct user studies. Course topics include accessibility, authentication, privacy policies, security warnings, developer tools, security education, and training. All students will work on a research project throughout the course with the goal of producing a paper suitable for publication.
 
-* Graduate Student Researcher (Spring 2024)
-Conduct grad-level research for the UJIMA Security & Research Group under the guidance of Dr. Munyaka.
+* CSE 194. Race, Gender, and Computing - Teaching Assistant (Fall 2023)
+This course explores the challenges of diversity, equity, and inclusion (DEI) in computing and technology through an introduction to and analysis of various social constructs and their impact on not only computing-related organizations, but also the technologies developed and the people affected by them. This course also introduces students to cultural competence in the context of computing.
 
 <!-- -------------------------here is where all the new stuff will be placed------------------- -->
 
