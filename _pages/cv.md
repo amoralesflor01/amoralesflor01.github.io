@@ -45,17 +45,17 @@ Publications
 
 1. **A License to Prey: Investigating the Impact of Digital Loan App Regulations on Permission Requests and Privacy Policies in the Kenyan Market**  
    _Alexis Morales-Flores_, Michael He, William Wu, Imani N. S. Munyaka  
-   [IEEE](https://doi.org/10.1109/ISTAS61960.2024.10732051) • [PDF](files/A_License_to_Prey_Investigating_the_Impact_of_Digital_Loan_App_Regulations_on_Permission_Requests_and_Privacy_Policies_in_the_Kenyan_Market.pdf)
+   [IEEE](https://doi.org/10.1109/ISTAS61960.2024.10732051) • [PDF](assets/files/A_License_to_Prey_Investigating_the_Impact_of_Digital_Loan_App_Regulations_on_Permission_Requests_and_Privacy_Policies_in_the_Kenyan_Market.pdf)
 
 ### Co-Authored Publications
 
 1. **"Parent seeking Roblox Safety Help": Comparing Parental Roblox Concerns to Roblox Offerings**  
    Andrew Smithwick, Chuong Nguyen, Emily Gorial, Natasha Tran, _Alexis Morales-Flores_, Imani N. S. Munyaka  
-   [IEEE](https://doi.org/10.1109/ISTAS61960.2024.10732489) • [PDF](files/Parent_seeking_Roblox_Safety_Help_Comparing_Parental_Roblox_Concerns_to_Roblox_Offerings.pdf)
+   [IEEE](https://doi.org/10.1109/ISTAS61960.2024.10732489) • [PDF](assets/files/Parent_seeking_Roblox_Safety_Help_Comparing_Parental_Roblox_Concerns_to_Roblox_Offerings.pdf)
 
 1. **AUTALIC: A Dataset for Anti-AUTistic Ableist Language In Context**  
    Naba Rizvi, Harper Strickland, Daniel Gitelman, Tristan Cooper, _Alexis Morales-Flores_, Michael Golden, Aekta Kallepalli, Akshat Alurkar, Haaset Owens, Saleha Ahmedi, Isha Khirwadkar, Imani Munyaka, Nedjma Ousidhoum  
-   [arXiv](https://doi.org/10.48550/arXiv.2410.16520) • [PDF](files/2410.16520v3.pdf)
+   [arXiv](https://doi.org/10.48550/arXiv.2410.16520) • [PDF](assets/files/2410.16520v3.pdf)
 
 
 Work experience
