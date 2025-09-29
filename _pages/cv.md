@@ -45,7 +45,7 @@ Publications
 
 1. **The Impact of LLM Assistance on User Spam Detection**  
    ***Alexis Morales-Flores***, Jay Jhaveri, Aditya Sharma, Sarthak Rege, Imani N. S. Munyaka  
-   [HAIPS@CCS](https://doi.org/10.1145/3733816.3760754) • [PDF](/files/files/The_Impact_of_LLM_Assistance_on_User_Spam_Detection.pdf)
+   [HAIPS@CCS](https://doi.org/10.1145/3733816.3760754) • [PDF](/files/The_Impact_of_LLM_Assistance_on_User_Spam_Detection.pdf)
 
 1. **A License to Prey: Investigating the Impact of Digital Loan App Regulations on Permission Requests and Privacy Policies in the Kenyan Market**  
    ***Alexis Morales-Flores***, Michael He, William Wu, Imani N. S. Munyaka  
