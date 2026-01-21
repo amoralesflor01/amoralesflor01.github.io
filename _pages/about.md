@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Hello everyone, I am Alexis (Alex) 😎
+# Hello everyone, I am Alex 😎
 
 I am a 2nd year PhD student in computer science at UC San Diego. My research interests are in computer security and online privacy. My principal investigator is Dr. Imani Munyaka.
 
@@ -40,11 +40,7 @@ You can find my public key on the keys.openpgp.org server or by clicking the lin
 
 ## PGP Fingerprint 🥷
 
-62E8 2240 27CC F8E5 3CD4  28E2 388B E025 C327 C63B
-
-## Fun Fact about me 🎒
-
-Ever since I can recall I have always liked backpacks and if you ever see me it is very likely that I will have a backpack on regardless of the situation.
+62E8 2240 27CC F8E5 3CD4 28E2 388B E025 C327 C63B
 
 ## Buh-Bye 👋
 
