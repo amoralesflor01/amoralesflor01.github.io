@@ -42,6 +42,6 @@ You can find my public key on the keys.openpgp.org server or by clicking the lin
 
 62E8 2240 27CC F8E5 3CD4 28E2 388B E025 C327 C63B
 
-## Buh-Bye 👋
+## Let's Connect
 
-Feel free to connect on LinkedIn or send me an email and thank you for visiting my page 😸
+Feel free to connect on LinkedIn or send me an email and thank you for visiting my page!
